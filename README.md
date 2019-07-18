@@ -1,6 +1,9 @@
-# tes8
+# Flutter ui 1.
 
-A new Flutter project.
+ Flutter ui 1.
+ 
+ ![alt text](https://raw.githubusercontent.com/mastermajisosse/flutterUI_01/master/assets/preview.jpg)
+
 
 ## Getting Started
 
